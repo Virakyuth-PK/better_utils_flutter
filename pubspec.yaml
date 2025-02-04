@@ -1,0 +1,24 @@
+name: better_utils_flutter
+description: "A better version of utils but still use other utils for Flutter"
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: ^3.6.0
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.6
+  intl: ^0.20.2
+  path_provider: ^2.1.5
+  shimmer: ^3.0.0
+  logger: ^2.5.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
